@@ -117,7 +117,7 @@ function Home() {
         name: "Sunrisers Hyderabad",
         logo: "https://upload.wikimedia.org/wikipedia/en/5/51/Sunrisers_Hyderabad_Logo.svg"
       },
-      venue: "M. Chinnaswamy Stadium, Bengaluru"
+      venue: "M. Chinnaswamy Stadium, Bangalore"
     },
     {
       id: "match79",
