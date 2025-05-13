@@ -19,7 +19,7 @@ function Home() {
         name: "Kolkata Knight Riders",
         logo: "https://upload.wikimedia.org/wikipedia/en/4/4c/Kolkata_Knight_Riders_Logo.svg"
       },
-      venue: "M. Chinnaswamy Stadium, Bengaluru"
+      venue: "M. Chinnaswamy Stadium, Bangalore"
     },
     {
       id: "match72",
